@@ -1,10 +1,6 @@
 # :hamburger: Eat Da Burger!
 
 
-### Overview
-A Node, Express, Handlebars, and MySQL burger app that lets users input the names of burgers they'd like to eat... and then devour them!
-Please check out the launched app on Heroku [here](http://eat-da-burgerz.herokuapp.com/)!
-
 
 ### Functionality
 Using an home-grown ORM, the app has 3 basic CRUD functions...
@@ -23,10 +19,3 @@ The app also has a funny "Whine" feature, where random sound effects are played 
 Lastly, the app's front-end design uses Bootstrap. This means that your burgers look just as tasty on mobile as they do on desktop. Please see the screenshots below...
 
 
-### Screenshots
-- Desktop View
-  * ![Full Size](/screenshots/fullsize.png)
-
-
-- Mobile View
-  * ![Mobile Size](/screenshots/mobile.png)
